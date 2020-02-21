@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/r0n4ld0/omnifood/blob/master/assets/img/logo.png"/>
-  
+  <img src="https://github.com/r0n4ld0/omnifood/blob/master/assets/img/logo.png" style="width:'100px'; height:100px"/>
     Ommifood
 </h1>
 
